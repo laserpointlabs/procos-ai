@@ -2,7 +2,7 @@
 
 Welcome to the ProcOS.ai documentation hub. This contains all architectural, conceptual, and implementation documentation for the Process-Oriented Operating System.
 
-## 📚 Documentation Structure
+## Documentation Structure
 
 ### Core Concepts
 - `architecture/` - System architecture and design patterns
@@ -19,7 +19,7 @@ Welcome to the ProcOS.ai documentation hub. This contains all architectural, con
 - `tutorials/` - Step-by-step tutorials
 - `examples/` - Real-world examples
 
-## 🔄 DADMS Evolution
+## DADMS Evolution
 
 ProcOS.ai represents the evolution of DADMS (Decision Analysis and Decision Management System) into a process-oriented paradigm that mirrors how operating systems manage computational resources.
 
@@ -33,7 +33,7 @@ ProcOS.ai represents the evolution of DADMS (Decision Analysis and Decision Mana
 | Context Manager | Context Switch | CPU Context |
 | DAS (Digital Assistance) | Kernel Services | OS Kernel |
 
-## 🎯 Process-OS Philosophy
+## Process-OS Philosophy
 
 Just as an operating system provides:
 - **Process Management** - Creating, scheduling, terminating processes
